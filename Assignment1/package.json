@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "name": "Assignment1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "author": "Muhammad Rizwan",
+  "license": "MIT",
+  "description": "Bootcamp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imrizwan/bootcam.git"
+  },
+  "keywords": [
+    "bootcam"
+  ],
+  "bugs": {
+    "url": "https://github.com/imrizwan/bootcam/issues"
+  },
+  "homepage": "https://github.com/imrizwan/bootcam#readme"
+}
